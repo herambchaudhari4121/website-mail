@@ -1,4 +1,11 @@
-# Mail Handling Part of the KOSS website
+# Mail Handling Part of the KOSS website 
 
 This repo contains the flask app that handles the backend of the mail sending part of the website.
 
+Message Handling
+Receiving messages for in-house guests in their absence, recording them and communicating them to the guests as soon as possible is an important function of the front desk staff. The efficiency and professionalism of the hotel and the attitude of the staff is reflected by the way this function is carried out by the staff. Usually when a guest goes out of his room he would leave his room key at the counter where the information clerk would put it in the appropriate pigeon hole of his room in the mail and key rack. The guest my leave a filled “Location Form” indicating where he will be for the next few hours.
+
+There are only two ways that a person can contact an in-house guest:
+
+In case of a phone call the telephone operator will connect it to the room of the guest. Since the guest is not in the room the call comes back to the operator who connects it to the Information Section of the Front Desk. After checking that the guest has left his key at the desk (as confirmed by the key being in the “Mail and Key Rack”) the telephone call is transferred to the “Message Desk”. The message clerk prepares the message slip in triplicate. It is important to read back the message to the caller and confirm the details before signing off. The top two copies are given to the Information Clerk who puts it the room no on the forms (from the Information Rack). The Top Copy is sent to the room to be slipped under the door. The Second Copy is put in the appropriate room no pigeon hole of the Mail and Key Rack. In addition, for further safety, an “attention card” or a “mail and message advise card” is put on the door knob of the room or “message light” is activated in those hotels which use electronic systems. The message details may also be fed into the computer and the guest may view it on the screen of the T.V. in his room.
+In case of the visitor coming to the hotel , he is asked to first try the house telephones to contact the guest. When he finds the guest is not in his room he comes to the Information Desk and fills in the message slip in triplicate.
